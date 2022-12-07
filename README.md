@@ -1,3 +1,7 @@
+#BuzzFeedPage
+
+You can access the page by clicking here => https://ederdeev.github.io/angular_buzz-feed/
+
 # BuzzFeedProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
