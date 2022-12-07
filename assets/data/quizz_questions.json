@@ -1,0 +1,71 @@
+{
+  "title":"Qual pokemon você seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual habilidade você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Telepatia", "alias":"A"},
+        {"id": 2, "name":"Folhas Raivosas", "alias":"E"},
+        {"id": 3, "name":"Choque do Trovão", "alias":"C"},
+        {"id": 4, "name":"Fogo Supremo", "alias":"B"},
+        {"id": 5, "name":"Agua suprema", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual sua personalidade?",
+      "options":[
+        {"id": 1, "name":"Amigo da galera", "alias":"C"},
+        {"id": 2, "name":"Confiante", "alias":"A"},
+        {"id": 3, "name":"Teimoso", "alias":"B"},
+        {"id": 4, "name":"Calmo", "alias":"D"},
+        {"id": 5, "name":"Dinossauro", "alias":"E"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro pokemon ?",
+      "options":[
+        {"id": 1, "name":"Socar a cara do inimigo", "alias":"B"},
+        {"id": 2, "name":"Não destruir as coisas", "alias":"C"},
+        {"id": 3, "name":"Mostrar superioridade", "alias":"A"},
+        {"id": 4, "name":"Se Defender", "alias":"D"},
+        {"id": 5, "name":"Preservar a floresta", "alias":"E"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 4, "name":"Ser o mais 'Durão'", "alias":"D"},
+        {"id": 1, "name":"Ser mais inteligente", "alias":"A"},
+        {"id": 3, "name":"Ser amigo de todos", "alias":"C"},
+        {"id": 2, "name":"Ser mais forte", "alias":"B"},
+        {"id": 3, "name":"Ser uma planta ", "alias":"E"}
+
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido de pokemon ?",
+      "options":[
+        {"id": 1, "name":"Mega Mente", "alias":"A"},
+        {"id": 3, "name":"Aquaman", "alias":"D"},
+        {"id": 2, "name":"Foguinho", "alias":"B"},
+        {"id": 3, "name":"Senhor Natureza", "alias":"E"},
+        {"id": 3, "name":"Trovãozinho", "alias":"C"}
+
+
+
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria o MewTwo!" ,
+    "B": "Você muito provavelmente seria o Charizard",
+    "C": "Você muito provavelmente seria o Pikachu",
+    "D": "Você muito provavelmente seria o Blastoise",
+    "E": "Você muito provavelmente seria o Venusaur"
+  }
+}
